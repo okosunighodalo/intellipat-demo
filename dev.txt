@@ -1,0 +1,4 @@
+This 1st line is created in main branch
+This is a sample file on dev branch
+This will help us understand merge
+
